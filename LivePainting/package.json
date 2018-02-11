@@ -1,0 +1,14 @@
+{
+  "name": "livepainting",
+  "version": "1.0.0",
+  "description": "Basic DrawingShared program on the web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nil Folquer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
